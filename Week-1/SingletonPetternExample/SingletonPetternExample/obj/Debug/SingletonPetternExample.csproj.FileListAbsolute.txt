@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\bin\Debug\SingletonPetternExample.exe.config
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\bin\Debug\SingletonPetternExample.exe
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\bin\Debug\SingletonPetternExample.pdb
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\obj\Debug\SingletonPetternExample.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\obj\Debug\SingletonPetternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\obj\Debug\SingletonPetternExample.exe
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\obj\Debug\SingletonPetternExample.pdb
+C:\Users\KIIT\Desktop\Cognizent digitalNurture\Week-1\SingletonPetternExample\SingletonPetternExample\obj\Debug\SingletonPetternExample.exe.config
