@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|c:\\users\\kiit\\desktop\\cognizent digitalnurture\\week-4\\webapplication3\\webapplication3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136DC7F-4CA3-4A3A-A97D-77B8B0BF07A1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:35:27.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:49:33.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "WebApplication3\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:53:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "WebApplication3\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:43:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Skills.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Skills.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Skills.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Skills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:30:46.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:30:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizent digitalNurture\\Week-4\\WebApplication3\\WebApplication3\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:29:12.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
