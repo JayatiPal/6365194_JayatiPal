@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "JwtAuthDemo.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "JWTAuth.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JwtAuthDemo.Controllers.SecureController",
+    "Method": "GetSecret",
+    "RelativePath": "api/Secure/secret",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
